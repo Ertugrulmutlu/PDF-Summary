@@ -8,8 +8,8 @@ A modern, user-friendly PDF analysis application. Upload your PDF files, select 
 
 ## ✨ Features
 
-- 📄 **PDF Upload & Page Selection**: Upload PDF files and specify page ranges for analysis
-- 🤖 **Local AI Analysis**: Secure analysis using local AI models via LM Studio
+- 📄 **PDF Upload & Page Selection**: Upload PDF files and specify page ranges for summary
+- 🤖 **Local AI Analysis**: Secure summary using local AI models via LM Studio
 - 💬 **Real-time Chat**: Track the analysis process in real-time
 - 📊 **Rich Results**: Detailed analysis results in JSON format
 - 💾 **Multiple Export Options**: Save as JSON, TXT, or local files
