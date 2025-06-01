@@ -1,4 +1,4 @@
-# 🤖 PDF Analysis Chatbot
+# 🤖 PDF Summary Chatbot
 
 A modern, user-friendly PDF analysis application. Upload your PDF files, select specific page ranges, and perform comprehensive analysis with local AI models.
 
